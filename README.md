@@ -5,7 +5,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/gabrielsaboia14"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://wa.me/5521993243356"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.saboia14@gmail.com)
+<a href="mailto:gabriel.saboia14@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <p align="center">
 <img alt="Gabriel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GabrielSaboia10&show_icons=true&theme=dracula"/>
