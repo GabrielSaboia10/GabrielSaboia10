@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-<img alt="Gabriel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GabrielSaboia10&show_icons=true&theme=dracula"/>
+<img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielSaboia10&theme=dracula"/>
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=GabrielSaboia10&theme=dracula"/>
 </p>
 
 ---
