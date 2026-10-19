@@ -15,6 +15,15 @@
 
 ---
 
+## 📂 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Sistema Bancário**](https://github.com/GabrielSaboia10/SistemaBancarioJAVA) | API REST + site com área do cliente e painel administrativo: contas, depósito, saque, transferência, extrato em CSV, auditoria, JWT com refresh token e rate limit | Java 21 · Spring Boot · Angular · PostgreSQL · Redis · Docker |
+| [**Sistema de Defesa Civil**](https://github.com/GabrielSaboia10/projeto-defesa-civil) | App desktop para cadastrar moradores, registrar chamados e consultar o histórico por CPF | Java 21 · Swing · MVC + DAO |
+
+---
+
 ## 🚀 Stack e Ferramentas
 
 ### 🧠 Linguagens
@@ -34,6 +43,7 @@
 <p align="left">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
